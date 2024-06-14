@@ -1,4 +1,0 @@
-secrets.conf filter=git-crypt diff=git-crypt
-
-# Prevent encrypting .gitattributes file :
-.gitattributes !filter !diff
